@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/knowjee/static/css/main.9054cb89.css",
-    "main.js": "/knowjee/static/js/main.5ae72613.js",
+    "main.css": "/knowjee/static/css/main.7890d174.css",
+    "main.js": "/knowjee/static/js/main.2c6dae49.js",
     "index.html": "/knowjee/index.html",
-    "main.9054cb89.css.map": "/knowjee/static/css/main.9054cb89.css.map",
-    "main.5ae72613.js.map": "/knowjee/static/js/main.5ae72613.js.map"
+    "main.7890d174.css.map": "/knowjee/static/css/main.7890d174.css.map",
+    "main.2c6dae49.js.map": "/knowjee/static/js/main.2c6dae49.js.map"
   },
   "entrypoints": [
-    "static/css/main.9054cb89.css",
-    "static/js/main.5ae72613.js"
+    "static/css/main.7890d174.css",
+    "static/js/main.2c6dae49.js"
   ]
 }
